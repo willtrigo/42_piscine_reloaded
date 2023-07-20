@@ -6,13 +6,13 @@
 /*   By: dande-je <dande-je@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/20 00:10:17 by dande-je          #+#    #+#             */
-/*   Updated: 2023/07/20 00:29:34 by dande-je         ###   ########.fr       */
+/*   Updated: 2023/07/20 19:00:38 by dande-je         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 int	ft_strlen(char *str)
 {
-	int i;
+	int	i;
 
 	i = 0;
 	while (*str++)
