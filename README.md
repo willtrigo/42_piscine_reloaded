@@ -39,5 +39,3 @@ This repository is a review of all concepts from Piscine. You need to remake mos
 [![](https://img.shields.io/badge/Project-ex_17-skyblue?style=for-the-badge&&logo=42)](https://github.com/willtrigo/42_piscine_reloaded/tree/main/ex17)
 [![](https://img.shields.io/badge/Project-ex_18-skyblue?style=for-the-badge&&logo=42)](https://github.com/willtrigo/42_piscine_reloaded/tree/main/ex18)
 [![](https://img.shields.io/badge/Project-ex_19-skyblue?style=for-the-badge&&logo=42)](https://github.com/willtrigo/42_piscine_reloaded/tree/main/ex19)
-
-
